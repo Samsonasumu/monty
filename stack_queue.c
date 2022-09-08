@@ -4,6 +4,7 @@
  * @stack: double pointer to head of stack
  * Description: This is the default behavior of the program.
  * @Linenumber: line number of current operation
+ * Return: void
  *
  * Return: void
  */
