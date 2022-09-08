@@ -13,6 +13,8 @@
  * struct var_s - struct to contain the main variables of the Monty interpreter
  * @queue: flag to determine if in stack vs queue mode
  * @stack_len: length of the stack
+ *
+ *
  */
 typedef struct var_s
 {
