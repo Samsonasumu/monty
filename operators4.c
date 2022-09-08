@@ -5,6 +5,10 @@
  * @stack: double pointer to head of stack
  * @Linenumber: line number of current operation
  *
+ *
+ *
+ * mul - multiplies the second top element of stack with top element
+ *
  * Return: void
  */
 void mul(stack_t **stack, unsigned int Linenumber)
